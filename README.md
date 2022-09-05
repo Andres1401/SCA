@@ -1,0 +1,2 @@
+# SCA
+Sistema calificador automático 
