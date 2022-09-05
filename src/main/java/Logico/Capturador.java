@@ -11,9 +11,10 @@ package Logico;
  */
 public class Capturador {
 
-    int NumeroEntregas;
-    String [] Enlace;
+    int NumeroEntregas=1;
+    String Enlace[]={"C:\\Users\\Andres Rodriguez\\Documents\\Septimo Semestre\\Ingeniería de Software\\Trabajos\\Tarea.txt"};
     public Capturador() {
+        
     }
     
     public void AñadirEntrega(String enlace){
